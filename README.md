@@ -4,8 +4,8 @@ setup docker-compose including Rails & MySQL
 ## environment
 
 ```shell script
-ruby: 2.7.0
-rails: 6.0.2.1
+ruby: 2.7.1
+rails: latest
 mysql: 5.7.12
 ```
 
