@@ -18,7 +18,7 @@ $ mv rails-chromedriver-docker-compose/ <APP_NAME>
 $ cd <APP_NAME>
 
 # Create Rails project in the current directory
-$ docker-compose run app rails new . --database=postgresql
+$ docker-compose run app rails new . --database=mysql
 
 # edit database.yml
 - host: localhost
